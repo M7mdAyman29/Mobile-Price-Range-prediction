@@ -6,5 +6,5 @@ This model predicted mobile price range by Enter Mobile capabilities
 2. Data analysis and visualization
 3. Data Preprocessing
 4. Train Model By using cross validation and Grid search
-5. Test model by use algorith has high accuracy 
+5. Test model by use algorithm has high accuracy 
 6. Price prediction of Test.csv
